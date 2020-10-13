@@ -1,0 +1,16 @@
+{
+  "name": "JestSample",
+  "version": "1.0.0",
+  "description": "In order to run test please: 1. click on the CUBE on the left and install JEST 2. create a function file FILENAME.js with a function as follows:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.5.3"
+  }
+}
