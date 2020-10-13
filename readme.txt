@@ -72,3 +72,17 @@ const sum = require('./sum');
 test('adds 1 + 2 to equal 3', () => {
   expect(sum(1, 2)).toBe(3);
 });
+
+////////////////////////////
+
+GITHUB CONNECTION
+-----------------
+Using the Version Control button on the left we could generate a GITHUB repository associated to the project
+
+////////////////////////////
+
+HEROKU DEPLOY
+-------------
+
+Create an heroku application, choose "deploy" with GITHUB in order to let HEROKU use the GITHUB repository
+If something wrong happens it is possible 2 check the LOGS through "more" and "vie
