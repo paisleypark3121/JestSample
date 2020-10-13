@@ -4,6 +4,7 @@
   "description": "In order to run test please: 1. click on the CUBE on the left and install JEST 2. create a function file FILENAME.js with a function as follows:",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

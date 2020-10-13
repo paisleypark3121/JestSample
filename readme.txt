@@ -24,3 +24,5 @@ this overrides the RUN of the REPL; if u want to start with the index change it 
 
 language="nodejs"
 run="node index.js"
+
+5. run test typing "jest" in console
